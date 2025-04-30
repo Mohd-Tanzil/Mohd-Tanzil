@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mohammad Tanzil</h1>
-<h3 align="center">A passionate Data Science enthusiast</h3>
+<h3 align="center">A passionate AI/ML enthusiast</h3>
 
 - 🔭 I’m currently working on **Sign Language to Speech AI System**
 - 🌱 I’m currently learning **Deep Learning, Transformers, and LLMs**

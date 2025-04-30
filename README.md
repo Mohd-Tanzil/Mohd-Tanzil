@@ -1,16 +1,36 @@
 ## Hi there 👋
 
-<!--
-**Mohd-Tanzil/Mohd-Tanzil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm Mohammad Tanzil</h1>
+<h3 align="center">A passionate Data Science enthusiast</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **Sign Language to Speech AI System**
+- 🌱 I’m currently learning **Deep Learning, Transformers, and LLMs**
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Mohd-Tanzil)
+- 💬 Ask me about **Python, Pandas, Machine Learning**
+- 📫 How to reach me: **mdtanzil749@gmail.com**
+- 📄 Know about my experiences [Resume](#) <!-- You can upload resume to GDrive or GitHub and link it -->
+
+---
+
+### 🛠️ Languages and Tools:
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohd-Tanzil&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-Tanzil&layout=compact&theme=dark)
+
+---
+
+### 🔗 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/itsmetanzil/)

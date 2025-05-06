@@ -2,12 +2,12 @@
 
 
 <h1 align="center">Hi 👋, I'm Mohammad Tanzil</h1>
-<h3 align="center">A passionate AI/ML enthusiast</h3>
+<h3 align="center"></h3>
 
-- 🔭 I’m currently working on **Sign Language to Speech AI System**
-- 🌱 I’m currently learning **Deep Learning, Transformers, and LLMs**
+- 
+- 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Mohd-Tanzil)
-- 💬 Ask me about **Python, Pandas, Machine Learning**
+- 💬 Ask me about **Python, Pandas, Machine Learning, data Science,**
 - 📫 How to reach me: **mdtanzil749@gmail.com**
 - 📄 Know about my experiences [Resume](#) <!-- You can upload resume to GDrive or GitHub and link it -->
 

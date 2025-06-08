@@ -1,10 +1,10 @@
-## Hi there 👋
+## Helloo 👋
 
 
 <h1 align="center">Hi , I'm Mohammad Tanzil</h1>
 <h3 align="center"></h3>
 
-### 📊 GitHub Stats:
+I'm a **passionate** with a deep interest in **Data Science**, **Machine Learning**, and **Artificial Intelligence. I love exploring new technologies and applying them to solve real-world problems and **building** something **meaningful.**
 
 
 ---
